@@ -6,10 +6,11 @@ Bringing safety to DeFi and building trust between developers and investors.
 
 EverRise Ecosytem website: https://www.everrise.com/
 
-EverRise token: https://www.everrisecoin.com/
+EverRise token: https://www.everrise.com/rise/
 
 EverRise dApps: https://everrise.finance/
 
+EverRise token contract: 0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
 ---
 
 You can also find us on these social media channels
