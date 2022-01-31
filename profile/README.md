@@ -10,7 +10,11 @@ EverRise token: https://www.everrise.com/rise/
 
 EverRise dApps: https://everrise.finance/
 
-EverRise token contract: 0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
+## Ethereum, BSC, Polygon, Fantom
+* EverRise token contract: 0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
+
+## Avalanche
+* EverRise token contract: 0xC3A8d300333BFfE3ddF6166F2Bc84E6d38351BED
 ---
 
 You can also find us on these social media channels
