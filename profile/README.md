@@ -8,7 +8,7 @@ EverRise Ecosytem website: https://www.everrise.com/
 
 EverRise token: https://www.everrise.com/rise/
 
-EverRise dApps: https://everrise.finance/
+EverRise dApps: https://app.everrise.com/
 
 ## Ethereum, BSC, Polygon, Fantom
 * EverRise token contract: 0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
