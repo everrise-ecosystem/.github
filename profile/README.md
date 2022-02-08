@@ -16,6 +16,11 @@ EverRise dApps: https://app.everrise.com/
 ## Avalanche
 * EverRise token contract: 0xC3A8d300333BFfE3ddF6166F2Bc84E6d38351BED
 ---
+## Detailed EverRise Statistics
+
+* [EverStats](https://data.everrise.com/stats.html) (Note: not currently mobile optimized)
+
+---
 
 You can also find us on these social media channels
 
