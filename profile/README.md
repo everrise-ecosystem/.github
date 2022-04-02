@@ -10,11 +10,25 @@ EverRise token: https://www.everrise.com/rise/
 
 EverRise dApps: https://app.everrise.com/
 
-## Ethereum, BSC, Polygon, Fantom
-* EverRise token contract: 0x0cD022ddE27169b20895e0e2B2B8A33B25e63579
+# Contract Addresses
+## Ethereum, BNB Chain, Polygon, Fantom, Avalanche
 
-## Avalanche
-* EverRise token contract: 0xC3A8d300333BFfE3ddF6166F2Bc84E6d38351BED
+EverRise Token
+
+* **RISE**: 0xC17c30e98541188614dF99239cABD40280810cA3
+
+EverRise NFT Stakes
+
+* **nftRISE**: 0x23cD2E6b283754Fd2340a75732f9DdBb5d11807e
+
+Vote-escrowed EverRise
+
+* **veRISE**: 0xDbA7b24257fC6e397cB7368B4BC922E944072f1b
+
+EverRise Rewards
+
+* **claimRISE**: 0xbBD7B847C6d0d0B5691518a363194D71426475F1
+
 ---
 ## Detailed EverRise Statistics
 
