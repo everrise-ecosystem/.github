@@ -29,6 +29,10 @@ EverRise Rewards
 
 * **claimRISE**: 0xbBD7B847C6d0d0B5691518a363194D71426475F1
 
+Contract source
+
+https://github.com/everrise-ecosystem/everrise-v3-contracts
+
 ---
 ## Detailed EverRise Statistics
 
