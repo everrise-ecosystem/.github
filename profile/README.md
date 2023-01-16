@@ -47,4 +47,4 @@ You can also find us on these social media channels
 * Reddit: https://www.reddit.com/r/EverRise/
 * Telegram: https://t.me/everriseofficial
 * Discord: https://discord.com/invite/everrise
-* Instagram: https://www.instagram.com/everrisetoken/
+* Instagram: https://www.instagram.com/everriseinc/
